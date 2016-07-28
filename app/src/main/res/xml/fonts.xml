@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<familyset>
+
+    <!-- Some Font. Can be referenced with 'someFont' or 'aspergit' -->
+    <family>
+        <nameset>
+            <name>Austie</name>
+        </nameset>
+        <fileset>
+            <file>austie_bost_envelopes_print.ttf</file>
+        </fileset>
+    </family>
+</familyset>

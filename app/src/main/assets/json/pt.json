@@ -1,0 +1,1289 @@
+[
+	{
+		"q": "Que personagem da Turma do Chaves vive cobrando o aluguel do Seu Madruga?",
+		"a": [
+			"Kiko",
+			"Chaves",
+			"*Seu Barriga",
+			"Professor Girafales"
+		]
+	},
+	{
+		"q": "Quem proclamou a república do Brasil em 1889?",
+		"a": [
+			"Duque de Caxias",
+			"Marechal Rondon",
+			"Dom Pedro II",
+			"*Marechal Deodoro"
+		]
+	},
+	{
+		"q": "Quem é o \"patrono\" do exército Brasileiro?",
+		"a": [
+			"Marechal Deodoro",
+			"Barão de Mauá",
+			"*Duque de Caxias",
+			"Marquês de Pombal"
+		]
+	},
+	{
+		"q": "Quem reprovava os calouros em seu programa tocando uma buzina?",
+		"a": [
+			"Raul gil",
+			"Bolinha",
+			"Flavio Cavalcanti",
+			"*Chacrinha"
+		]
+	},
+	{
+		"q": "Qual seria seu signo se você nascesse no dia do ano novo?",
+		"a": [
+			"Virgem",
+			"Aquario",
+			"*Capricornio",
+			"Aries"
+		]
+	},
+	{
+		"q": "Quem fundou a fábrica de automóveis Ford?",
+		"a": [
+			"Harrison Ford",
+			"Gerald Ford",
+			"*Henry Ford",
+			"Anna Ford"
+		]
+	},
+	{
+		"q": "Qual a cor associada a grupos ecológicos?",
+		"a": [
+			"Preto",
+			"Vermelho",
+			"Azul",
+			"*Verde"
+		]
+	},
+	{
+		"q": "Com quantos graus centígrados a água ferve?",
+		"a": [
+			"200",
+			"*100",
+			"170",
+			"220"
+		]
+	},
+	{
+		"q": "Quando é comemorado o dia da independência do Brasil?",
+		"a": [
+			"21 de Abril",
+			"12 de Outubro",
+			"*7 de Setembro",
+			"25 de Dezembro"
+		]
+	},
+	{
+		"q": "Qual o nome da área em roma na qual vive o papa?",
+		"a": [
+			"Veneza",
+			"Vitória",
+			"Vancouver",
+			"*Vaticano"
+		]
+	},
+	{
+		"q": "Que feriado é comemorado no dia 1º de maio?",
+		"a": [
+			"Dia do aviador",
+			"*Dia do trabalho",
+			"Dia das mães",
+			"Dia da bandeira"
+		]
+	},
+	{
+		"q": "Quantos sígnos astrológicos fazem o zodíaco?",
+		"a": [
+			"9 sígnos",
+			"10 sígnos",
+			"11 sígnos",
+			"*12 sígnos"
+		]
+	},
+	{
+		"q": "Em qual estado do Brasil o churrasco é uma comida típica?",
+		"a": [
+			"Minas Gerais",
+			"*Rio Grande do Sul",
+			"São Paulo",
+			"Goiás"
+		]
+	},
+	{
+		"q": "Quem criou os personagens Pedrinho e Narizinho?",
+		"a": [
+			"Maurício de Sousa",
+			"Ziraldo",
+			"*Monteiro Lobato",
+			"Machado de Assis"
+		]
+	},
+	{
+		"q": "Quem criou os personagens da Turma da Mônica?",
+		"a": [
+			"Monteiro Lobato",
+			"Jorge Amado",
+			"*Maurício de Sousa",
+			"Angeli"
+		]
+	},
+	{
+		"q": "Nos desenhos animados, como se chama o cachorro medroso do Salsicha?",
+		"a": [
+			"Floquinho",
+			"Rin-tin-tin",
+			"Lassie",
+			"*Scubidu"
+		]
+	},
+	{
+		"q": "Quantas dentições tem o ser humano durante a vida?",
+		"a": [
+			"Uma",
+			"*Duas",
+			"Três",
+			"Quatro"
+		]
+	},
+	{
+		"q": "Qual é a pedra preciosa mais dura encontrada na natureza?",
+		"a": [
+			"Esmeralda",
+			"Rubi",
+			"Pérola",
+			"*Diamante"
+		]
+	},
+	{
+		"q": "Que personagem da tv diz:\"não contavam com a minha astúcia\"?",
+		"a": [
+			"Chaves",
+			"Kiko",
+			"*Chapolim Colorado",
+			"Seu Madruga"
+		]
+	},
+	{
+		"q": "Que cantor americano ficou conhecido como \"o rei do rock\"?",
+		"a": [
+			"Frank Sinatra",
+			"Little Richard",
+			"*Elvis Presley",
+			"Richie Valens"
+		]
+	},
+	{
+		"q": "Qual é o gato inimigo do Piu-piu nos desenhos animados?",
+		"a": [
+			"Félix",
+			"Tom",
+			"*Frajola",
+			"Batatinha"
+		]
+	},
+	{
+		"q": "Quantos dias tem um ano bissexto?",
+		"a": [
+			"364",
+			"365",
+			"*366",
+			"367"
+		]
+	},
+	{
+		"q": "Qual o réptil que muda de cor conforme o ambiente e o meio onde vive?",
+		"a": [
+			"Sapo",
+			"*Camaleão",
+			"Lagarto",
+			"Jacaré"
+		]
+	},
+	{
+		"q": "Qual é o tempo de duração de uma partida de futebol?",
+		"a": [
+			"45 minutos",
+			"*90 minutos",
+			"120 minutos",
+			"150 minutos"
+		]
+	},
+	{
+		"q": "Qual é a capital do cinema mundial?",
+		"a": [
+			"Gramado",
+			"Las vegas",
+			"New orleans",
+			"*Hollywood"
+		]
+	},
+	{
+		"q": "Qual era o código da identidade secreta do James Bond?",
+		"a": [
+			"7o7",
+			"9o7",
+			"Oo8",
+			"*Oo7"
+		]
+	},
+	{
+		"q": "Quantos centavos tem um real?",
+		"a": [
+			"Dez",
+			"Mil",
+			"*Cem",
+			"Cinqüenta"
+		]
+	},
+	{
+		"q": "Como é conhecida a ponte que liga as cidades do Rio de Janeiro e de Niterói?",
+		"a": [
+			"Rio Kwait",
+			"*Rio-Niterói",
+			"Rio São Francisco",
+			"Brooklin"
+		]
+	},
+	{
+		"q": "Que dia é comemorado a proclamação da república no Brasil?",
+		"a": [
+			"19 de Abril",
+			"15 de Outubro",
+			"19 de Novembro",
+			"*15 de Novembro"
+		]
+	},
+	{
+		"q": "O que mede o termômetro?",
+		"a": [
+			"Longitude",
+			"Umidade",
+			"*Temperatura",
+			"Latitude"
+		]
+	},
+	{
+		"q": "A que continente pertence o Rio Amazonas?",
+		"a": [
+			"*Americano",
+			"Africano",
+			"Europeu",
+			"Asiático"
+		]
+	},
+	{
+		"q": "De quanto o Brasil perdeu da França na final da Copa de 98?",
+		"a": [
+			"Dois a zero",
+			"*Três a zero",
+			"Quatro a zero",
+			"Cinco a zero"
+		]
+	},
+	{
+		"q": "Quantas folhas tem um trevo da sorte?",
+		"a": [
+			"Três",
+			"*Quatro",
+			"Cinco",
+			"Seis"
+		]
+	},
+	{
+		"q": "Quem é o pai da Chiquinha?",
+		"a": [
+			"Girafales",
+			"Seu barrica",
+			"*Seu madruga",
+			"Nhonho"
+		]
+	},
+	{
+		"q": "O que vem depois do verão e antes do inverno?",
+		"a": [
+			"*Outono",
+			"Primavera",
+			"Inverno",
+			"Verão"
+		]
+	},
+	{
+		"q": "Violoncelo é um instrumento de:",
+		"a": [
+			"Sopro",
+			"*Cordas",
+			"Percussão",
+			"Repercussão"
+		]
+	},
+	{
+		"q": "A bruxa envenenou Branca de Neve com que fruta?",
+		"a": [
+			"*Maçã",
+			"Pêra",
+			"Melão",
+			"Laranja"
+		]
+	},
+	{
+		"q": "Em que cidade é realizada a corrida São Silvestre?",
+		"a": [
+			"Belo Horizonte",
+			"Rio de Janeiro",
+			"*São Paulo",
+			"Salvador"
+		]
+	},
+	{
+		"q": "Qual área da medicina que trata as crianças?",
+		"a": [
+			"Geriatria",
+			"*Pediatria",
+			"Infantologia",
+			"Biologia"
+		]
+	},
+	{
+		"q": "O saquê é uma bebida originária de que país?",
+		"a": [
+			"Estados unidos",
+			"*Japão",
+			"Coréia do sul",
+			"China"
+		]
+	},
+	{
+		"q": "O camelo tem quantas corcovas?",
+		"a": [
+			"Uma",
+			"*Duas",
+			"Três",
+			"Quatro"
+		]
+	},
+	{
+		"q": "Um adulto sadio tem quantos dentes na boca?",
+		"a": [
+			"Dezoito",
+			"Vinte e quatro",
+			"*Trinta e dois",
+			"Trinta e seis"
+		]
+	},
+	{
+		"q": "Qual dos sete anões usa óculos?",
+		"a": [
+			"Dunga",
+			"Zangado",
+			"Dengoso",
+			"*Mestre"
+		]
+	},
+	{
+		"q": "Quem é o Homem de Aço das histórias em quadrinhos?",
+		"a": [
+			"Batman",
+			"Hulk",
+			"He-man",
+			"*Súper-homem"
+		]
+	},
+	{
+		"q": "Cavalo, rainha e torre são peças de qual jogo?",
+		"a": [
+			"Damas",
+			"*Xadrez",
+			"Ludo",
+			"Dominó"
+		]
+	},
+	{
+		"q": "Turmalina é uma espécie de quê?",
+		"a": [
+			"Flor",
+			"Fruta",
+			"*Pedra",
+			"Verdura"
+		]
+	},
+	{
+		"q": "Qual é o santo casamenteiro?",
+		"a": [
+			"São Pedro",
+			"São Paulo",
+			"São João",
+			"*Santo Antõnio"
+		]
+	},
+	{
+		"q": "Que tipo de instrumento é o piano?",
+		"a": [
+			"Sopro",
+			"*Corda",
+			"Percussão",
+			"Força"
+		]
+	},
+	{
+		"q": "De qual país é o champagne?",
+		"a": [
+			"América",
+			"Holanda",
+			"*França",
+			"Suécia"
+		]
+	},
+	{
+		"q": "Qual é a pedra preciosa que se forma lentamente dentro das ostras?",
+		"a": [
+			"Diamante",
+			"*Pérola",
+			"Rubi",
+			"Esmeralda"
+		]
+	},
+	{
+		"q": "Qual é o dia da mentira?",
+		"a": [
+			"26 de Dezembro",
+			"7 de Setembro",
+			"*1º de Abril",
+			"15 de Novembro"
+		]
+	},
+	{
+		"q": "Em que estado nasceu a cantora Elba Ramalho?",
+		"a": [
+			"*Paraíba",
+			"Ceará",
+			"Bahia",
+			"Alagoas"
+		]
+	},
+	{
+		"q": "Qual é o dia das crianças?",
+		"a": [
+			"*12 de Outubro",
+			"1 de Abril",
+			"13 de Maio",
+			"9 de Julho"
+		]
+	},
+	{
+		"q": "Em que estado do Brasil nasceram os cantores Chitãozinho e Xororó?",
+		"a": [
+			"*Paraná",
+			"Minas gerais",
+			"Mato grosso",
+			"Goiás"
+		]
+	},
+	{
+		"q": "Quem é a mulher do Tarzan?",
+		"a": [
+			"Diana",
+			"Louis Laine",
+			"*Jane",
+			"Chita"
+		]
+	},
+	{
+		"q": "Qual a profissão dos sete anões?",
+		"a": [
+			"*Mineiros",
+			"Lenhadores",
+			"Agricultores",
+			"Pastores"
+		]
+	},
+	{
+		"q": "Quem é potiguar, nasce em que estado do Brasil?",
+		"a": [
+			"Espírito Santo",
+			"*Rio Grande do Norte",
+			"Santa Catarina",
+			"Paraná"
+		]
+	},
+	{
+		"q": "Uma equipe de vôlei começa uma partida com quantos titulares na quadra?",
+		"a": [
+			"Cinco",
+			"*Seis",
+			"Sete",
+			"Oito"
+		]
+	},
+	{
+		"q": "Que profissional conduz o elevador?",
+		"a": [
+			"Condutor",
+			"Elevadorista",
+			"*Ascensorista",
+			"Botonista"
+		]
+	},
+	{
+		"q": "Segundo a bíblia, Jesus Cristo tinha quantos apóstolos?",
+		"a": [
+			"Dez",
+			"Onze",
+			"*Doze",
+			"Treze"
+		]
+	},
+	{
+		"q": "A máfia surgiu na idade média em que país?",
+		"a": [
+			"Estados unidos",
+			"Inglaterra",
+			"*Itália",
+			"Espanha"
+		]
+	},
+	{
+		"q": "O presidente Fernando Henrique é formado em qual curso?",
+		"a": [
+			"Administração",
+			"Economia",
+			"Direito",
+			"*Sociologia"
+		]
+	},
+	{
+		"q": "Qual é considerado o mês das noivas?",
+		"a": [
+			"Setembro",
+			"Junho",
+			"*Maio",
+			"Outubro"
+		]
+	},
+	{
+		"q": "Quem inventou o telefone?",
+		"a": [
+			"*Graham Bell",
+			"George Washington",
+			"Tomas Edison",
+			"Marconi"
+		]
+	},
+	{
+		"q": "Que tipo de animal é um rotweiller?",
+		"a": [
+			"Cavalo",
+			"*Cachorro",
+			"Camelo",
+			"Coelho"
+		]
+	},
+	{
+		"q": "Como é chamado o esporte com aviõezinhos via controle remoto?",
+		"a": [
+			"Automobilismo",
+			"Iatismo",
+			"*Aeromodelismo",
+			"Atletismo"
+		]
+	},
+	{
+		"q": "Turmalina é uma espécie de quê?",
+		"a": [
+			"Flor",
+			"Fruta",
+			"*Pedra",
+			"Verdura"
+		]
+	},
+	{
+		"q": "De que cor é a pedra rubi?",
+		"a": [
+			"Azul",
+			"Verde",
+			"Amarela",
+			"*Vermelha"
+		]
+	},
+	{
+		"q": "Qual é a verdura que fortalece o Marinheiro Popeye?",
+		"a": [
+			"Alface",
+			"*Espinafre",
+			"Cenoura",
+			"Repolho"
+		]
+	},
+	{
+		"q": "Qual é o santo casamenteiro?",
+		"a": [
+			"São Pedro",
+			"São Paulo",
+			"São João",
+			"*Santo Antônio"
+		]
+	},
+	{
+		"q": "Qual estação é conhecida como a que caem as folhas das árvores?",
+		"a": [
+			"Verão",
+			"*Outono",
+			"Inverno",
+			"Primavera"
+		]
+	},
+	{
+		"q": "Como Joana d\"Arc morreu?",
+		"a": [
+			"Enforcada",
+			"Afogada",
+			"*Queimada",
+			"Asfixiada"
+		]
+	},
+	{
+		"q": "Qual é a associação que tem por lema \"Sempre Alerta\"?",
+		"a": [
+			"Ninjas",
+			"*Escoteiros",
+			"Bombeiros",
+			"Policiais"
+		]
+	},
+	{
+		"q": "Qual é o coletivo de cães?",
+		"a": [
+			"*Matilha",
+			"Rebanho",
+			"Alcatéia",
+			"Manada"
+		]
+	},
+	{
+		"q": "Qual atriz estrelou o filme: \"A lagoa azul\"",
+		"a": [
+			"Alicia Silverstone",
+			"*Brooke Shields",
+			"Julia Roberts",
+			"Jessica Lange"
+		]
+	},
+	{
+		"q": "Quem só acredita vendo é seguidor de qual santo?",
+		"a": [
+			"Santo Antônio",
+			"São Judas Tadeu",
+			"São Pedro",
+			"*São Tomé"
+		]
+	},
+	{
+		"q": "Qual fruto é conhecido no norte e nordeste do Brasil como \"jerimum\"?",
+		"a": [
+			"Caju",
+			"*Abóbora",
+			"Chuchu",
+			"Coco"
+		]
+	},
+	{
+		"q": "As pontes de safena são implantadas em que parte do corpo humano?",
+		"a": [
+			"Estômago",
+			"Intestino",
+			"Pulmão",
+			"*Coração"
+		]
+	},
+	{
+		"q": "Quem criou a boneca Emília na literatura?",
+		"a": [
+			"*Monteiro Lobato",
+			"Maurício de Souza",
+			"Walt Disney",
+			"Jô Soares"
+		]
+	},
+	{
+		"q": "No famoso conto, que tipo de animal era \"Moby Dick\"?",
+		"a": [
+			"Tubarão",
+			"Golfinho",
+			"Polvo",
+			"*Baleia"
+		]
+	},
+	{
+		"q": "Qual é o animal que representa o signo de touro?",
+		"a": [
+			"Hipopótamo",
+			"Cavalo",
+			"*Touro",
+			"Galo"
+		]
+	},
+	{
+		"q": "Em que cidade está localizada a estátua do Cristo Redentor?",
+		"a": [
+			"*Rio de Janeiro",
+			"São Paulo",
+			"Curitiba",
+			"Belo Horizonte"
+		]
+	},
+	{
+		"q": "Um metro tem quantos centímetros?",
+		"a": [
+			"10",
+			"*100",
+			"1000",
+			"10000"
+		]
+	},
+	{
+		"q": "Qual é o nome do macho da abelha?",
+		"a": [
+			"*Zangão",
+			"Garanhão",
+			"Ferrão",
+			"Rufião"
+		]
+	},
+	{
+		"q": "Qual bicho transmite a doença de chagas?",
+		"a": [
+			"Abelha",
+			"Barata",
+			"*Barbeiro",
+			"Pulga"
+		]
+	},
+	{
+		"q": "Qual o nome dado à contagem feita pelo governo, para saber o número de pessoas de um país?",
+		"a": [
+			"*Censo",
+			"Contagem",
+			"Marcação",
+			"Conta"
+		]
+	},
+	{
+		"q": "Qual cantora é conhecida como \"A rainha dos caminhoneiros\"?",
+		"a": [
+			"Roberta Miranda",
+			"Maria Bethânia",
+			"*Sula Miranda",
+			"Rita Cadillac"
+		]
+	},
+	{
+		"q": "Qual é a missa rezada no Natal?",
+		"a": [
+			"Campal",
+			"*Do galo",
+			"Do vaticano",
+			"De sétimo dia"
+		]
+	},
+	{
+		"q": "Qual o orixá é conhecida como a \"Rainha do mar\"?",
+		"a": [
+			"Mamãe oxum",
+			"*Iemanjá",
+			"Pomba-gira",
+			"Iansã"
+		]
+	},
+	{
+		"q": "Que esporte Fernando Scherer, o Xuxa, pratica?",
+		"a": [
+			"Ciclismo",
+			"Vôlei de praia",
+			"*Natação",
+			"Surf"
+		]
+	},
+	{
+		"q": "Quem libertou os escravos em 1888?",
+		"a": [
+			"Joana d\"Arc",
+			"Anita Garibaldi",
+			"*Princesa Isabel",
+			"Imperatriz Leopoldina"
+		]
+	},
+	{
+		"q": "O humorista Mussum foi integrante de qual grupo de samba?",
+		"a": [
+			"Fundo de Quintal",
+			"Titulares do Ritmo",
+			"*Originais do Samba",
+			"Banda Brasil"
+		]
+	},
+	{
+		"q": "Onde ficam as mulheres do sultão?",
+		"a": [
+			"*Harém",
+			"Labirinto",
+			"Coliseu",
+			"Choupana"
+		]
+	},
+	{
+		"q": "De quantas cores é composto o arco-íris?",
+		"a": [
+			"3",
+			"*7",
+			"12",
+			"22"
+		]
+	},
+	{
+		"q": "Nos desenhos animados, quem é a mulher de Fred Flinstone?",
+		"a": [
+			"Beth",
+			"*Vilma",
+			"Margarida",
+			"Clarabela"
+		]
+	},
+	{
+		"q": "A frase \"abra-te sésamo\" foi dita por quem?",
+		"a": [
+			"Dom Pedro I",
+			"Hércules",
+			"*Ali Babá",
+			"Dunga"
+		]
+	},
+	{
+		"q": "A estátua da liberdade fica localizada em qual cidade?",
+		"a": [
+			"Londres",
+			"*Nova York",
+			"Paris",
+			"Madri"
+		]
+	},
+	{
+		"q": "Qual destes personagens não usa uma capa?",
+		"a": [
+			"Super-homem",
+			"Batman",
+			"*Homem-aranha",
+			"Zorro"
+		]
+	},
+	{
+		"q": "O que têm em comum rosa, lilás e azul?",
+		"a": [
+			"São vinhos",
+			"São flores",
+			"*São cores",
+			"São ilhas"
+		]
+	},
+	{
+		"q": "Como se chama o osso da coxa do homem?",
+		"a": [
+			"*Fêmur",
+			"Tíbia",
+			"Perônio",
+			"úmero"
+		]
+	},
+	{
+		"q": "Como é chamado o espaço de tempo entre o nascer e o pôr do sol?",
+		"a": [
+			"Madrugada",
+			"*Dia",
+			"Noite",
+			"Semana"
+		]
+	},
+	{
+		"q": "Qual personagem vive no país das maravilhas?",
+		"a": [
+			"Cinderela",
+			"Bela adormecida",
+			"*Alice",
+			"Chapeuzinho vermelho"
+		]
+	},
+	{
+		"q": "O que normalmente as pessoas contam para dormir?",
+		"a": [
+			"*Carneiros",
+			"Números",
+			"Música",
+			"Estrelas"
+		]
+	},
+	{
+		"q": "Como Hebe Camargo iniciou a sua carreira?",
+		"a": [
+			"Modelo",
+			"Corista",
+			"Atriz",
+			"*Cantora"
+		]
+	},
+	{
+		"q": "Como se chama a pessoa julgada em um tribunal?",
+		"a": [
+			"Promotor",
+			"*Réu",
+			"Jurado",
+			"Escravo"
+		]
+	},
+	{
+		"q": "Em que mês comemoramos o dia dos pais?",
+		"a": [
+			"Novembro",
+			"Setembro",
+			"*Agosto",
+			"Fevereiro"
+		]
+	},
+	{
+		"q": "Qual é o esporte mais popular do Brasil?",
+		"a": [
+			"*Futebol",
+			"Natação",
+			"Golfe",
+			"Equitação"
+		]
+	},
+	{
+		"q": "O frevo é um ritmo de que estado do Brasil?",
+		"a": [
+			"São Paulo",
+			"Bahia",
+			"*Pernambuco",
+			"Paraíba"
+		]
+	},
+	{
+		"q": "Em que dia Tiradentes foi morto?",
+		"a": [
+			"25 de Dezembro",
+			"4 de Julho",
+			"1º de Janeiro",
+			"*21 de Abril"
+		]
+	},
+	{
+		"q": "Que cineasta Brasileiro tem como marca registrada as unhas enormes?",
+		"a": [
+			"Walter Salles",
+			"*Zé do Caixão",
+			"Walter Hugor Khoury",
+			"Toninho do Diabo"
+		]
+	},
+	{
+		"q": "Qual destas frutas vem em cacho?",
+		"a": [
+			"Laranja",
+			"Maçã",
+			"Pêra",
+			"*Uva"
+		]
+	},
+	{
+		"q": "Qual é o deus romano do amor?",
+		"a": [
+			"*Cupido",
+			"Netuno",
+			"Marte",
+			"Plutão"
+		]
+	},
+	{
+		"q": "Qual é a estação das flores?",
+		"a": [
+			"*Primavera",
+			"Verão",
+			"Outono",
+			"Inverno"
+		]
+	},
+	{
+		"q": "Qual país de origem da feijoada?",
+		"a": [
+			"*Brasil",
+			"Angola",
+			"França",
+			"Inglaterra"
+		]
+	},
+	{
+		"q": "Que ave dorme durante o dia e caça à noite?",
+		"a": [
+			"Papagaio",
+			"Canário",
+			"*Coruja",
+			"Beija-flor"
+		]
+	},
+	{
+		"q": "Luiz Gonzaga era o rei de quê?",
+		"a": [
+			"Bolero",
+			"ópera",
+			"*Baião",
+			"Rock"
+		]
+	},
+	{
+		"q": "Quem da Turma da Mônica é metido a cientista?",
+		"a": [
+			"Cebolinha",
+			"Cascão",
+			"*Franjinha",
+			"Horácio"
+		]
+	},
+	{
+		"q": "Como se chama o homem que tem duas esposas ao mesmo tempo?",
+		"a": [
+			"Solteiro",
+			"Casado",
+			"*Bígamo",
+			"Divorciado"
+		]
+	},
+	{
+		"q": "Em que estado fica o pantanal Brasileiro?",
+		"a": [
+			"São Paulo",
+			"Paraná",
+			"*Mato grosso",
+			"Rio de Janeiro"
+		]
+	},
+	{
+		"q": "Qual a matéria prima do catchup?",
+		"a": [
+			"Abacate",
+			"*Tomate",
+			"Cereja",
+			"Pêssego"
+		]
+	},
+	{
+		"q": "Vatapá é uma comida típica de que estado?",
+		"a": [
+			"Paraná",
+			"Santa Catarina",
+			"São Paulo",
+			"*Bahia"
+		]
+	},
+	{
+		"q": "Que político austríaco, foi responsável pela morte de mais de 6 milhões de judeus?",
+		"a": [
+			"Churchill",
+			"*Hitler",
+			"Roosevelt",
+			"Stalin"
+		]
+	},
+	{
+		"q": "Como é chamada a roupa dos judocas?",
+		"a": [
+			"Casaca",
+			"*Quimono",
+			"Sobretudo",
+			"Bata"
+		]
+	},
+	{
+		"q": "Qual nome se dá a uma igreja bem pequena?",
+		"a": [
+			"*Capela",
+			"Catedral",
+			"Altar",
+			"Senzala"
+		]
+	},
+	{
+		"q": "Qual a capital da Espanha?",
+		"a": [
+			"Barcelona",
+			"Mônaco",
+			"*Madri",
+			"Vigo"
+		]
+	},
+	{
+		"q": "Balança, é qual símbolo do zodíaco?",
+		"a": [
+			"Virgem",
+			"*Libra",
+			"Capricórnio",
+			"Áries"
+		]
+	},
+	{
+		"q": "Como se chama o lugar onde se guardam os vinhos?",
+		"a": [
+			"*Adega",
+			"Biblioteca",
+			"Sótão",
+			"Sala "
+		]
+	},
+	{
+		"q": "Em qual time Zico se consagrou?",
+		"a": [
+			"Vasco",
+			"Corinthians",
+			"*Flamengo",
+			"Fluminense"
+		]
+	},
+	{
+		"q": "Em que ano foi descoberto o Brasil pelos portugueses?",
+		"a": [
+			"1450",
+			"*1500",
+			"1550",
+			"1400"
+		]
+	},
+	{
+		"q": "Que cidade é conhecida como terra da garoa?",
+		"a": [
+			"Rio de Janeiro",
+			"Porto Alegre",
+			"Piracicaba",
+			"*São Paulo"
+		]
+	},
+	{
+		"q": "Quem criou o célebre personagem Carlitos?",
+		"a": [
+			"*Charles Chaplin",
+			"Albert Camus",
+			"Friederich Nietzche",
+			"Charles Dickens"
+		]
+	},
+	{
+		"q": "Como se chamou o movimento em que tiradentes era o líder?",
+		"a": [
+			"Revolução Francesa",
+			"Guerra dos Emboabas",
+			"*Inconfidência Mineira",
+			"Segunda Guerra Mundial"
+		]
+	},
+	{
+		"q": "Quantas cores tem a bandeira do Brasil?",
+		"a": [
+			"3",
+			"*4",
+			"5",
+			"6"
+		]
+	},
+	{
+		"q": "A calvície é o nome dado a:",
+		"a": [
+			"*Falta de cabelo",
+			"Falta de barba",
+			"Falta de apetite",
+			"Falta de bigode"
+		]
+	},
+	{
+		"q": "O que se comemora no dia 2 de novembro?",
+		"a": [
+			"Natal",
+			"Trabalho",
+			"Mães",
+			"*Finados"
+		]
+	},
+	{
+		"q": "Quem é o autor da obra \"\"o sitio do pica-pau amarelo\"\"?",
+		"a": [
+			"*Monteiro Lobato",
+			"Graciliano Ramos",
+			"Machado de Assis",
+			"Jorge Amado"
+		]
+	},
+	{
+		"q": "Qual a região mais seca do Brasil?",
+		"a": [
+			"Sul",
+			"Norte",
+			"Centro-oeste",
+			"*Nordeste"
+		]
+	},
+	{
+		"q": "Que profissional usa um estetoscópio?",
+		"a": [
+			"Engenheiro",
+			"Mecânico",
+			"*Médico",
+			"Aviador"
+		]
+	},
+	{
+		"q": "Onde são acondicionadas as balas de um revólver?",
+		"a": [
+			"Cano",
+			"*Tambor",
+			"Agulha",
+			"Gatilho"
+		]
+	},
+	{
+		"q": "O que significa S.O.S.?",
+		"a": [
+			"Lugar proibido",
+			"Aviso de embarque",
+			"*Pedido de socorro",
+			"Saída"
+		]
+	},
+	{
+		"q": "Qual a flor que segue a luz do sol?",
+		"a": [
+			"Margarida",
+			"Rosa",
+			"Cravo",
+			"*Girassol"
+		]
+	},
+	{
+		"q": "Qual a capital do Chile?",
+		"a": [
+			"Pequim",
+			"Madrid",
+			"*Santiago",
+			"Cabul"
+		]
+	},
+	{
+		"q": "Ronald Reagan foi presidente de que país?",
+		"a": [
+			"Austrália",
+			"Canadá",
+			"*Estados Unidos",
+			"França"
+		]
+ }
+]

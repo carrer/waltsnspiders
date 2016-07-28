@@ -1,0 +1,110 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_centerInParent="true"
+        android:paddingBottom="25dp"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+
+    <com.carr3r.waltsnspiders.styled.StyledTextview
+            android:textAlignment="center"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:textSize="18sp"
+            android:background="@drawable/rounded_title"
+            android:textColor="@android:color/white"
+            android:text="@string/ranking" />
+
+        <android.support.v7.widget.GridLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/list"
+            android:background="@drawable/gradient_background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:columnCount="4"
+            android:scrollIndicators="none">
+            <com.carr3r.waltsnspiders.styled.StyledTextview
+                android:layout_width="wrap_content"
+                android:singleLine="true"
+                android:layout_height="wrap_content"
+                app:layout_columnWeight="0"
+                app:layout_gravity="fill_horizontal"
+                android:background="@android:color/black"
+                android:textColor="@android:color/white"
+                android:textSize="14sp"
+                android:padding="5dp"
+                android:text="@string/position"/>
+
+            <com.carr3r.waltsnspiders.styled.StyledTextview
+                android:id="@+id/nameColumn"
+                android:singleLine="true"
+                app:layout_columnWeight="2"
+                app:layout_gravity="fill_horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/black"
+                android:textColor="@android:color/white"
+                android:textSize="14sp"
+                android:padding="5dp"
+                android:text="@string/name" />
+
+            <com.carr3r.waltsnspiders.styled.StyledTextview
+                android:layout_width="wrap_content"
+                android:singleLine="true"
+                android:layout_height="wrap_content"
+                app:layout_columnWeight="0"
+                app:layout_gravity="fill_horizontal"
+                android:background="@android:color/black"
+                android:textColor="@android:color/white"
+                android:textSize="14sp"
+                android:padding="5dp"
+                android:text="@string/level"/>
+
+            <com.carr3r.waltsnspiders.styled.StyledTextview
+                android:layout_width="wrap_content"
+                android:singleLine="true"
+                android:layout_height="wrap_content"
+                app:layout_columnWeight="0"
+                app:layout_gravity="fill_horizontal"
+                android:background="@android:color/black"
+                android:textColor="@android:color/white"
+                android:textSize="14sp"
+                android:padding="5dp"
+                android:text="@string/points"/>
+
+        </android.support.v7.widget.GridLayout>
+
+        <com.carr3r.waltsnspiders.styled.StyledButton
+            android:id="@+id/btnClose"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:padding="5dp"
+            android:textColor="@android:color/white"
+            android:text="@string/back"
+            android:layout_width="fill_parent"
+            android:layout_height="35dp"
+            android:background="@drawable/rounded_corners"/>
+
+        <com.facebook.login.widget.LoginButton
+            android:id="@+id/login_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="15dp" />
+
+    </LinearLayout>
+
+    <com.appbrain.AppBrainBanner
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

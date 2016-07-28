@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Walts &amp; As Aranhas</string>
+    <string name="you_won">Parabéns!</string>
+    <string name="game_over">Você perdeu</string>
+    <string name="achievement">Conquista</string>
+    <string name="level">Nível</string>
+    <string name="points">Pontos</string>
+    <string name="ranking">Ranking</string>
+    <string name="close">Fechar</string>
+    <string name="go">Começar!</string>
+    <string name="time">Tempo</string>
+    <string name="next">Próximo</string>
+    <string name="start_new_game">Novo jogo</string>
+    <string name="board_safe_zone">ÁREA SEGURA</string>
+    <string name="board_paused">P A U S E D</string>
+    <string name="board_game_over">G A M E   O V E R</string>
+    <string name="are_you_ready">Você está pronto para encarar o próximo nível?</string>
+    <string name="you_have_been_bitten">Você foi mordido!</string>
+    <string name="you_got_to_level_and_made">Você chegou ao Nível %1$s somando %2$s ponto(s).</string>
+    <string name="game_paused">Jogo parado</string>
+    <string name="what_happened">O que aconteceu? Precisa ir ao banheiro?</string>
+    <string name="resume">Voltar ao jogo</string>
+    <string name="logout_facebook">Desassociar conta de Facebook</string>
+    <string name="back">Voltar</string>
+    <string name="you">Você</string>
+    <string name="name">Nome</string>
+    <string name="connection_problem" />
+    <string name="position">Posição</string>
+    <string name="review_question">Rever questão</string>
+    <string name="leave_game">Sair</string>
+    <string name="you_are_about_to_leave">Você está prestes a fechar o jogo? Deseja prosseguir?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="instructions">Instruções de jogo</string>
+    <string name="game_plot_1">Conduza Walts até a pedra preciosa cuja coloração corresponde à solução da questão apresentada.\n\nCom a pedra em mãos, retorne-a ao centro do tabuleiro.</string>
+    <string name="game_plot_2">Você ganhará o equivalente a 50 moedas para cada questão resolvida, mas atenção: ao coletar a pedra errada você perde 25 moedas!</string>
+    <string name="game_plot_3">Tome bastante cuidado com as aranhas: uma só picada e Walts já era. Por sorte elas têm medo de água e por isso não lhe atacam próximo ao chafariz.</string>
+    <string name="game_plot_4">Toque nas bordas da tela para guiar Walts pelo labirinto.</string>
+    <string name="game_plot_5">Isso é tudo!\n\nQuantos enigmas você consegue resolver? Associe sua conta de Facebook para participar do ranking global.</string>
+    <string name="do_not_show_again">Não mostrar novamente</string>
+    <string name="prior">Anterior</string>
+    <string name="skip">Pular</string>
+    <string name="lets_start">Começar!</string>
+    <string name="facebook_cancel">Autenticação cancelada.</string>
+    <string name="facebook_error">Ocorreu um problema durante o processo de autenticação.</string>
+</resources>

@@ -1,0 +1,569 @@
+[
+	{
+		"q": "Who was the first President of the United States?",
+		"a": [
+			"*George Washington",
+			"Abraham Lincoln",
+			"William J. Clinton",
+			"Thomas Jefferson"
+		]
+	},
+	{
+		"q": "Which is not a color of the United States flag?",
+		"a": [
+			"*Black",
+			"Red",
+			"White",
+			"Blue"
+		]
+	},
+	{
+		"q": "Complete this phrase: \"April ________ bring May flowers?\"",
+		"a": [
+			"*Showers",
+			"Sunshine",
+			"Fools",
+			"Springtime"
+		]
+	},
+	{
+		"q": "What tool is usually used to tighten a nut?",
+		"a": [
+			"*Wrench",
+			"Block Plane",
+			"Hammer",
+			"Flashlight"
+		]
+	},
+	{
+		"q": "What control on a radio adjusts the loudness?",
+		"a": [
+			"*Volume",
+			"Tuner",
+			"Bass",
+			"Treble"
+		]
+	},
+	{
+		"q": "How many days are there in a leap year?",
+		"a": [
+			"*366",
+			"364",
+			"365",
+			"367"
+		]
+	},
+	{
+		"q": "What is the name of the green frog on The Muppet Show?",
+		"a": [
+			"*Kermit",
+			"Frogger",
+			"Yoda",
+			"Fozie"
+		]
+	},
+	{
+		"q": "How many wheels does a unicycle have?",
+		"a": [
+			"*One",
+			"Two",
+			"Three",
+			"Four"
+		]
+	},
+	{
+		"q": "Complete the phrase: \"Do not judge a ________ by its cover\"",
+		"a": [
+			"*Book",
+			"Man",
+			"Court",
+			"Store"
+		]
+	},
+	{
+		"q": "How many inches are in a yard?",
+		"a": [
+			"*36 inches",
+			"48 inches",
+			"24 inches",
+			"60 inches"
+		]
+	},
+	{
+		"q": "Who was the President of the United States from 1993-2001?",
+		"a": [
+			"*William Clinton",
+			"Ronald Reagan",
+			"Jimmy Carter",
+			"Gerald Ford"
+		]
+	},
+	{
+		"q": "Who's portrait is on the U.S. quarter?",
+		"a": [
+			"*George Washington",
+			"Thomas Jefferson",
+			"Andrew Jackson",
+			"Benjamin Franklin"
+		]
+	},
+	{
+		"q": "What is the name of the official residence of the President of the United States?",
+		"a": [
+			"*White House",
+			"Green House",
+			"Presidential House",
+			"U.S. House"
+		]
+	},
+	{
+		"q": "Due to superstition, what floor number is absent from many tall buildings?",
+		"a": [
+			"*13",
+			"66",
+			"7",
+			"1"
+		]
+	},
+	{
+		"q": "What are Go Fish, Solitaire and War?",
+		"a": [
+			"*Card games",
+			"Old TV game shows",
+			"Insults",
+			"Rock bands"
+		]
+	},
+	{
+		"q": "What category of plant produces apples?",
+		"a": [
+			"*Tree",
+			"Bush",
+			"Fern",
+			"Vine"
+		]
+	},
+	{
+		"q": "In baseball, what is the name of the position behind home plate?",
+		"a": [
+			"*Catcher",
+			"Pitcher",
+			"Coach",
+			"Shortstop"
+		]
+	},
+	{
+		"q": "What item is typically dropped overboard to prevent a boat from drifting?",
+		"a": [
+			"*Anchor",
+			"Rudder",
+			"Mainstay",
+			"Raft"
+		]
+	},
+	{
+		"q": "How many disciples did Jesus specifically select?",
+		"a": [
+			"*12",
+			"7",
+			"16",
+			"10"
+		]
+	},
+	{
+		"q": "What type of reference book would be used to find definitions for words?",
+		"a": [
+			"*Dictionary",
+			"Thesaurus",
+			"Encyclopedia",
+			"Almanac"
+		]
+	},
+	{
+		"q": "In what state would you find Walt Disney World's \"Epcot\" theme park?",
+		"a": [
+			"*Florida",
+			"California",
+			"New Mexico",
+			"Maryland"
+		]
+	},
+	{
+		"q": "Where are you most likely to encounter the abbreviations \"FTP\", \"HTTP\" and \"ISP\"?",
+		"a": [
+			"*On the Internet",
+			"In the military",
+			"At church",
+			"In a factory"
+		]
+	},
+	{
+		"q": "Complete this phrase: \"A penny saved is a penny ________?",
+		"a": [
+			"*Earned",
+			"More",
+			"Saved",
+			"Kept"
+		]
+	},
+	{
+		"q": "Oranges are a good source of what vitamin?",
+		"a": [
+			"*Vitamin C",
+			"Vitamin A",
+			"Vitamin B",
+			"Vitamin D"
+		]
+	},
+	{
+		"q": "Which of the following is used as a pointing device on a computer?",
+		"a": [
+			"*Mouse",
+			"Keyboard",
+			"Scanner",
+			"Modem"
+		]
+	},
+	{
+		"q": "What color is the background of a STOP sign?",
+		"a": [
+			"*Red",
+			"Yellow",
+			"White",
+			"Fushia"
+		]
+	},
+	{
+		"q": "Where did Superman grow up as a child?",
+		"a": [
+			"*Smallville",
+			"Pleasantville",
+			"Metropolis",
+			"Thomasville"
+		]
+	},
+	{
+		"q": "Which of the following animals has the longest neck when full grown?",
+		"a": [
+			"*Giraffe",
+			"Elephant",
+			"Horse",
+			"Turtle"
+		]
+	},
+	{
+		"q": "What is typically used to remove pencil marks?",
+		"a": [
+			"*Eraser",
+			"White-out",
+			"Hydrochloric acid",
+			"Paint"
+		]
+	},
+	{
+		"q": "Which of the following sports does NOT involve hitting an object with a stick?",
+		"a": [
+			"*Curling",
+			"Baseball",
+			"Polo",
+			"Hockey"
+		]
+	},
+	{
+		"q": "What color is Superman's cape?",
+		"a": [
+			"*Red",
+			"Blue",
+			"Yellow",
+			"White"
+		]
+	},
+	{
+		"q": "During World War II, on which of these cities did the U.S. drop an atomic bomb?",
+		"a": [
+			"*Hiroshima",
+			"Okinawa",
+			"Tokyo",
+			"Godzilla"
+		]
+	},
+	{
+		"q": "How many cups are there in a quart?",
+		"a": [
+			"*4",
+			"2",
+			"8",
+			"16"
+		]
+	},
+	{
+		"q": "An albino typically has what distinguishing characteristic?",
+		"a": [
+			"*Very pale skin",
+			"Yellow Eyes",
+			"Hairless",
+			"Obese"
+		]
+	},
+	{
+		"q": "What is the largest state of the United States?",
+		"a": [
+			"*Alaska",
+			"Texas",
+			"Maine",
+			"Montana"
+		]
+	},
+	{
+		"q": "Genealogy is the study of what subject?",
+		"a": [
+			"*Ancestry",
+			"Genetics",
+			"Fish",
+			"Books"
+		]
+	},
+	{
+		"q": "In Roman numerals, \"L\" is equal to what number?",
+		"a": [
+			"*50",
+			"1000",
+			"100",
+			"500"
+		]
+	},
+	{
+		"q": "In Roman numerals, \"D\" is equal to what number?",
+		"a": [
+			"*500",
+			"100",
+			"1000",
+			"50"
+		]
+	},
+	{
+		"q": "In bowling, what is the term for knocking down all remaining pins with the second ball?",
+		"a": [
+			"*Spare",
+			"Strike",
+			"Split",
+			"Ace"
+		]
+	},
+	{
+		"q": "The fictional character \"Sherlock Holmes\" had what profession?",
+		"a": [
+			"*Detective",
+			"Spy",
+			"Policeman",
+			"Reporter"
+		]
+	},
+	{
+		"q": "If you had a heart murmur, what specialist would you see?",
+		"a": [
+			"*Cardiologist",
+			"Ophthalmologist",
+			"Podiatrist",
+			"Neurologist"
+		]
+	},
+	{
+		"q": "Peter Parker is the secret identity for what comic book super hero?",
+		"a": [
+			"*Spiderman",
+			"Green Lantern",
+			"The Flash",
+			"Daredevil"
+		]
+	},
+	{
+		"q": "What is Batman's secret identity?",
+		"a": [
+			"*Bruce Wayne",
+			"David Banner",
+			"Dick Grayson",
+			"Scott Summers"
+		]
+	},
+	{
+		"q": "What is the most populous country in the world?",
+		"a": [
+			"*China",
+			"Russia",
+			"United States",
+			"India"
+		]
+	},
+	{
+		"q": "Laundry bleach is used to:",
+		"a": [
+			"*Lighten\/whiten colors",
+			"Darken colors",
+			"Soften fabrics",
+			"Reduce static cling"
+		]
+	},
+	{
+		"q": "How many strings are on a basic guitar?",
+		"a": [
+			"*6",
+			"4",
+			"5",
+			"8"
+		]
+	},
+	{
+		"q": "How many days are there in the month of August?",
+		"a": [
+			"*31",
+			"30",
+			"28",
+			"29"
+		]
+	},
+	{
+		"q": "According to superstition, how many years of bad luck will breaking a mirror get you?",
+		"a": [
+			"*7 years",
+			"9 years",
+			"3 years",
+			"13 years"
+		]
+	},
+	{
+		"q": "What system of printing and writing consisting of raised dots was created for the blind?",
+		"a": [
+			"*Braille",
+			"Sign Language",
+			"Rupee",
+			"Proofreading"
+		]
+	},
+	{
+		"q": "What is the largest planet of our Solar System?",
+		"a": [
+			"*Jupiter",
+			"Saturn",
+			"Neptune",
+			"Earth"
+		]
+	},
+	{
+		"q": "Which of the following electronic components is used to generate sound?",
+		"a": [
+			"*Speaker",
+			"Diode",
+			"Microphone",
+			"Resistor"
+		]
+	},
+	{
+		"q": "What color is made when yellow and blue paint are combined?",
+		"a": [
+			"*Green",
+			"Orange",
+			"Red",
+			"Purple"
+		]
+	},
+	{
+		"q": "A canine is another name for what type of animal?",
+		"a": [
+			"*Dog",
+			"Cat",
+			"Lizard",
+			"Bird"
+		]
+	},
+	{
+		"q": "In the game of chess, what piece can only move diagonally?",
+		"a": [
+			"*Bishop",
+			"Pawn",
+			"Rook\/Castle",
+			"Knight"
+		]
+	},
+	{
+		"q": "What is Great Britain's national currency (system of money)?",
+		"a": [
+			"*Pound",
+			"Dollar",
+			"Mark",
+			"Euro"
+		]
+	},
+	{
+		"q": "What is the name of Batman's butler?",
+		"a": [
+			"*Alfred",
+			"Jones",
+			"Albert",
+			"James"
+		]
+	},
+	{
+		"q": "Which of the following is not one of the primary colors of light?",
+		"a": [
+			"*Yellow",
+			"Red",
+			"Blue",
+			"Green"
+		]
+	},
+	{
+		"q": "Napoleon I was the ruler of which country?",
+		"a": [
+			"*France",
+			"Italy",
+			"England",
+			"Spain"
+		]
+	},
+	{
+		"q": "What is the world's fastest land animal?",
+		"a": [
+			"*Cheetah",
+			"Greyhound",
+			"Gazelle",
+			"Ostrich"
+		]
+	},
+	{
+		"q": "The clock tower containing \"Big Ben\" is located in what city?",
+		"a": [
+			"*London",
+			"New York",
+			"Chicago",
+			"Amsterdam"
+		]
+	},
+	{
+		"q": "Manicures are done on what part of the body?",
+		"a": [
+			"*Hands",
+			"Feet",
+			"Back",
+			"Face"
+		]
+	},
+	{
+		"q": "Which of the following countries is not in South America?",
+		"a": [
+			"*Madagascar",
+			"Peru",
+			"Brazil",
+			"Bolivia"
+		]
+	},
+	{
+		"q": "The \"Leaning Tower of Pisa\" is located in what country?",
+		"a": [
+			"*Italy",
+			"Spain",
+			"Portugal",
+			"Sweden"
+		]
+	}
+]
